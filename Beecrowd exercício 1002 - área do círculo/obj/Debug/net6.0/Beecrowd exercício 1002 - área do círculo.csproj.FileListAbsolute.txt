@@ -1,0 +1,15 @@
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\bin\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.exe
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\bin\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.deps.json
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\bin\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.runtimeconfig.json
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\bin\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.dll
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\bin\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.pdb
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.csproj.AssemblyReference.cache
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.AssemblyInfoInputs.cache
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.AssemblyInfo.cs
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.csproj.CoreCompileInputs.cache
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.dll
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\refint\Beecrowd exercício 1002 - área do círculo.dll
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.pdb
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\Beecrowd exercício 1002 - área do círculo.genruntimeconfig.cache
+D:\mateu\Documents\Treino de C#\Beecrowd exercício 1002 - área do círculo\Beecrowd exercício 1002 - área do círculo\obj\Debug\net6.0\ref\Beecrowd exercício 1002 - área do círculo.dll
